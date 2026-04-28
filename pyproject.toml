@@ -44,4 +44,3 @@ dependencies = [
     "llama-index-embeddings-huggingface>=0.7.0",
     "python-dotenv>=1.2.2",
 ]
-
