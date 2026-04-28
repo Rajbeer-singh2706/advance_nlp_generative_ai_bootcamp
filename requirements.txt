@@ -11,6 +11,7 @@
 # requests==2.32.3
 
 # tiktoken==0.7.0
+
 torch
 torchvision
 torchaudio
@@ -25,11 +26,20 @@ spacy
 torchinfo
 scikit-learn
 langchain_groq
-langchain_google_genai 
-langchain_anthropic 
+langchain_google_genai
+langchain_anthropic
 langchain_huggingface
 langchain_openai
 grandalf
 ipykernel
 pip
 dotenv
+pypdf
+langchain-core
+langchain-community
+sentence-transformers
+faiss-cpu
+pinecone-client
+langgraph
+llama-index
+llama-index-embeddings-huggingface
