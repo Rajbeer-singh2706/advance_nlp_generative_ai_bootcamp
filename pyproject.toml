@@ -42,5 +42,6 @@ dependencies = [
     "langgraph>=0.2.16",
     "llama-index>=0.14.21",
     "llama-index-embeddings-huggingface>=0.7.0",
+    "python-dotenv>=1.2.2",
 ]
 

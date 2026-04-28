@@ -40,3 +40,5 @@ pinecone-client
 langgraph
 llama-index
 llama-index-embeddings-huggingface
+torch 
+python-dotenv
